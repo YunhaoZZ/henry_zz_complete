@@ -1,3 +1,6 @@
 [submodule "henry_zz_portfolio"]
 	path = henry_zz_portfolio
 	url = https://github.com/YunhaoZZ/henry_zz_portfolio.git
+[submodule "henry_zz_backend"]
+	path = henry_zz_backend
+	url = https://github.com/YunhaoZZ/henry_zz_backend.git
